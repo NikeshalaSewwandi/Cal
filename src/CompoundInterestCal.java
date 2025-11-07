@@ -19,7 +19,6 @@ public class CompoundInterestCal{
         System.out.println();
 
 
-
         System.out.print("Principal amount(in Rs)             :");
         principal = scanner.nextDouble();
 
