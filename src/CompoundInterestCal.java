@@ -20,10 +20,10 @@ public class CompoundInterestCal{
 
 
 
-        System.out.print("principal amount(in Rs)             :");
+        System.out.print("Principal amount(in Rs)             :");
         principal = scanner.nextDouble();
 
-        System.out.print("interest rate (in %)                :");
+        System.out.print("Interest rate (in %)                :");
         rate = scanner.nextDouble() / 100;
 
         System.out.print("Number of times compounded for year :");
